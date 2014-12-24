@@ -18,4 +18,6 @@ Practicing basic JavaScript. [Example from W3shools.com](http://www.w3schools.co
 
 Some AJAX practicing and testing for me to learning this web-base programing language.
 
+
+---
 ### Update Log
