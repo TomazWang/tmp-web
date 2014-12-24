@@ -1,0 +1,22 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    width: 900px;
+    display: block;
+    margin: 20px auto;
+}
+header {
+    text-align: center;
+    font: sans-serif;
+}
+textarea[name="inputBox"] {
+    border: blue solid;
+    margin-top: 20px;
+    height: 230px;
+    width: 360px;
+    padding: 5px;
+    font-size:14px;
+    text-align: left;
+}
